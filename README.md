@@ -7,3 +7,7 @@ A running companion for planning routes and recording runs.
 For help with Can Do, email [candoappsupport@gmail.com](mailto:candoappsupport@gmail.com).
 
 You can also use this address for privacy questions and data requests.
+
+## Privacy
+
+[Read the privacy policy](https://lachyw.github.io/can-do-site/privacy/).
