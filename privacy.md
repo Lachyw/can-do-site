@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: privacy
 title: Can Do privacy policy
 permalink: /privacy/
 ---
