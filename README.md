@@ -1,6 +1,6 @@
 # Can Do
 
-A running companion for planning routes and recording runs.
+A running companion for planning routes and recording runs..
 
 ## Support
 
