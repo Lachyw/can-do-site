@@ -1,6 +1,8 @@
 # Can Do
 
-A running companion for planning routes and recording runs..
+A running companion for planning routes and recording runs.
+
+Can Do is a mobile app, currently in closed beta and available only via Apple TestFlight. To request access, please contact [candoappsupport@gmail.com](mailto:candoappsupport@gmail.com).
 
 ## Support
 
