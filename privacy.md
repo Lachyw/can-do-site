@@ -6,7 +6,7 @@ permalink: /privacy/
 
 # Can Do privacy policy
 
-Last updated: 7 November 2026
+Last updated: 25 November 2026
 
 Can Do is an application (app) for planning routes and recording runs. You can use
 the app without an account.
@@ -44,6 +44,47 @@ Mapbox receives connection information, including your IP address, and may recei
 For planned elevation, Can Do downloads parts of public Copernicus terrain files hosted on Amazon Web Services (AWS). AWS receives your IP address and requests for the relevant terrain area. Your recorded run is not uploaded to AWS.
 
 See [Mapbox's privacy policy](https://www.mapbox.com/legal/privacy) and [AWS's privacy notice](https://aws.amazon.com/privacy/).
+
+## If you connect Garmin Connect
+
+Connecting Garmin Connect is optional. This section applies only if you
+connect it.
+
+**What we receive.** After you connect, Garmin sends us each running
+activity that you record on your Garmin device and sync with Garmin
+Connect. An activity includes its start time, distance, durations,
+elevation, heart rate, cadence, speed, calories, steps, the activity name,
+the device model and, where available, the route you ran, which is
+precise location. We do not receive activities that you recorded before
+you connected.
+
+**How we handle it.** We hold each activity only until Can Do on your
+iPhone collects it, then we delete it from our systems. If Can Do does not
+collect an activity within 30 days, we delete it. While you are connected,
+we keep the connection details that Garmin gives us and the IDs of
+activities already delivered, so that each activity comes to Can Do only
+once. After Can Do collects an activity, it is stored on your iPhone with
+your other runs. Heart rate is health information. We use it only to show
+it to you in Can Do.
+
+**How we use it.** We use Garmin data to show your runs in Can Do and, as
+with your other runs, to understand app use and fix problems. We do not
+sell it or use it for advertising. Run totals and screens from Garmin runs
+are included in analytics and session replay in the same way as runs you
+record in Can Do (see Analytics and crash reports). Garmin routes, heart
+rate and the other measures listed above are not sent to analytics. We do
+not use Garmin data to train, test or improve artificial intelligence. Can
+Do only reads your activities. It does not change anything in Garmin
+Connect.
+
+**Disconnecting and deletion.** You can disconnect in Settings › Garmin
+Connect, or remove Can Do's access in your Garmin Connect account. When
+you do, we stop receiving your activities and delete the activities we
+hold for you and your connection details. Runs already on your iPhone stay
+there until you delete them. You can delete them one at a time, or all
+together when you disconnect. Deleting a run in Can Do does not delete it
+from Garmin Connect. If you no longer have your iPhone, remove Can Do's
+access in Garmin Connect, and we delete what we hold for you.
 
 ## Analytics and crash reports
 
@@ -88,7 +129,9 @@ companies' apps or websites.
 PostHog processes our project data in its EU hosting region in Frankfurt,
 Germany. Mapbox processes data in the United States and other countries.
 AWS serves terrain downloads. Their service providers may also process
-information outside Australia. See [PostHog's privacy information](https://posthog.com/docs/privacy).
+information outside Australia. Garmin activities are received and held by
+our hosting provider, Cloudflare, until Can Do collects them. Cloudflare
+may process them outside Australia. See [PostHog's privacy information](https://posthog.com/docs/privacy).
 
 ### TestFlight users
 
@@ -117,6 +160,8 @@ does not automatically delete information already sent to PostHog.
 Mapbox normally retains IP addresses for 30 days, with exceptions for
 investigations; other retention periods depend on purpose.
 AWS request handling is governed by its privacy notice.
+Garmin activities that we delete can remain in Cloudflare's recovery copy
+for up to 30 days.
 
 Contact us to request access, correction or deletion of information we hold,
 or to raise a complaint. We may need enough information to find the right
